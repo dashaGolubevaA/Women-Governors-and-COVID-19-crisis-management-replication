@@ -15,7 +15,8 @@ Includes figures and CSV exports.
 *Additionally, simple OLS was estimated at the begining of the code, which was later replaced with rdrobust that authors use in the paper. 
 
 Outputs (statistics tables and visual representations, graphs) are written to outputs (study 3B) and results (study 3A)
-*** before tunning replace paths in the __need a path___ in both python files.
+*** before tunning replace paths in the \__need a path___ in both python files.
+make sure both .dta files are in the same project folder
 
 Results:
 Study 3A (geographic matching): In both models results are not significant
